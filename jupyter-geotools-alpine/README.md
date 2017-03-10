@@ -3,7 +3,7 @@
 First clone the notebook with this command  so the submodule projects is added to it
 
 ``` bash
-git clone --recursive -j8 git@github.com:aagm/jupyter-geotools-alpine.git
+git clone --recursive -j8 git@github.com:Vizzuality/dockerized_jupyters.git
 cd jupyter-geotools-alpine
 ```
 
